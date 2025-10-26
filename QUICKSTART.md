@@ -172,7 +172,7 @@ python -m unittest tests.test_classifier -v
 - Read the full README.md
 - Check data/DATASET_GUIDE.md for dataset help
 - Review IMPLEMENTATION.md for technical details
-- Run the examples in notebooks/demo.md
+- See code examples in notebooks/demo.md
 
 ## Features Overview
 
