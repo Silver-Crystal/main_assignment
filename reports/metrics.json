@@ -1,0 +1,36 @@
+{
+  "best_params": {
+    "metric": "minkowski",
+    "n_neighbors": 5,
+    "p": 2,
+    "weights": "distance"
+  },
+  "accuracy": 0.6245353159851301,
+  "report": {
+    "Non Venomous": {
+      "precision": 0.6391752577319587,
+      "recall": 0.484375,
+      "f1-score": 0.5511111111111111,
+      "support": 128.0
+    },
+    "Venomous": {
+      "precision": 0.6162790697674418,
+      "recall": 0.75177304964539,
+      "f1-score": 0.6773162939297125,
+      "support": 141.0
+    },
+    "accuracy": 0.6245353159851301,
+    "macro avg": {
+      "precision": 0.6277271637497003,
+      "recall": 0.618074024822695,
+      "f1-score": 0.6142137025204117,
+      "support": 269.0
+    },
+    "weighted avg": {
+      "precision": 0.6271739101371747,
+      "recall": 0.6245353159851301,
+      "f1-score": 0.6172632701349876,
+      "support": 269.0
+    }
+  }
+}
